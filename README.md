@@ -1,24 +1,24 @@
 # Jordan Leis
 
-👋 Hi there! I'm Jordan Leis, an electrical engineering student at the University of Waterloo in my first term.
+👋 Hi there! I'm Jordan Leis, a 2nd-year electrical engineering student at the University of Waterloo.
 
 ## About Me
 
-- 🤖 Former Robotics Instructor at RoboThink, Edmonton
-- 📚 Currently pursuing a degree in Electrical Engineering
-- 🌱 Working towards sustainable energy solutions
+🛠️ Teaching Assistant and former co-op at Harding Instruments Co.
+💻 Experienced in hardware design, firmware development, and VHDL
+⚡ Passionate about hardware design and digital systems
 
 ## Technologies & Tools
 
-- **Languages:** Fluent in Python and C++
-- **Frameworks & Libraries:** React
-- **DevOps:** Jira, Git
+Languages: C++, VHDL, C, Python, 
+Hardware & Design: Altium, Fusion 360, AutoCAD, Quartus
+DevOps: Git, Jira
 
 ## Current Focus
 
-🌍 Working towards sustainable energy solutions and exploring ways to contribute to a greener future.
+⚙️ Building digital systems and exploring hardware/software integration for complex engineering challenges.
 
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/jordan-leis/)
-- 📧 Email: jordan.jay.leis@gmail.com
+📧 Email: jordan.jay.leis@gmail.com
