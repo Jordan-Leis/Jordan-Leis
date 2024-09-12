@@ -10,8 +10,10 @@
 
 ## Technologies & Tools
 
-Languages: C++, VHDL, C, Python, 
+Languages: C++, VHDL, C, Python
+
 Hardware & Design: Altium, Fusion 360, AutoCAD, Quartus
+
 DevOps: Git, Jira
 
 ## Current Focus
