@@ -5,7 +5,9 @@
 ## About Me
 
 🛠️ Teaching Assistant and former co-op at Harding Instruments Co.
+
 💻 Experienced in hardware design, firmware development, and VHDL
+
 ⚡ Passionate about hardware design and digital systems
 
 ## Technologies & Tools
