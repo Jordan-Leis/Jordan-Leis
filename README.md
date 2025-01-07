@@ -12,7 +12,7 @@
 
 ## Technologies & Tools
 
-Languages: C++, VHDL, C, Python
+Languages: C++, VHDL, Java, Python
 
 Hardware & Design: Altium, Fusion 360, AutoCAD, Quartus
 
