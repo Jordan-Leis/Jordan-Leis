@@ -1,28 +1,27 @@
 # Jordan Leis
 
-👋 Hi there! I'm Jordan Leis, a 2nd-year electrical engineering student at the University of Waterloo.
+Hi there! I'm Jordan, a second-year Electrical Engineering student at the University of Waterloo with a passion for building systems that solve meaningful problems — from embedded hardware to AI-driven decision-making.
 
-## About Me
+## 🚀 What I Do
 
-🛠️ Teaching Assistant and former co-op at Harding Instruments Co.
+- 🛠️ **Engineering Research Assistant** at the National Research Council, building airflow testing systems and writing CRBasic + LabVIEW for sensor integration and control.
+- 🧪 **Technical Project Manager** at Wat.AI, developing reinforcement learning agents for microgrid optimization and simulating multi-agent political decision-making using LLMs.
+- 👨‍🏫 **Teaching Assistant** for ECE 150 (C++), supporting over 400 students through one-on-one tutoring, live help sessions, and assignment development.
 
-💻 Experienced in hardware design, firmware development, and VHDL
+## 🧠 Interests
 
-⚡ Passionate about hardware design and digital systems
+- Embedded systems, firmware, and digital logic  
+- Applied reinforcement learning & simulation environments  
+- Open-source tools for education and public policy  
 
-## Technologies & Tools
+## 🧰 Tools & Technologies
 
-Languages: C++, VHDL, Java, Python
+**Languages:** Python, C++, VHDL, CRBasic, Java  
+**Hardware:** Altium Designer, Quartus, NI LabVIEW  
+**ML/AI:** TensorFlow, LangChain, Gymnasium  
+**Dev Tools:** Git, GitHub, Selenium, BeautifulSoup
 
-Hardware & Design: Altium, Fusion 360, AutoCAD, Quartus
-
-DevOps: Git, Jira
-
-## Current Focus
-
-⚙️ Building digital systems and exploring hardware/software integration for complex engineering challenges.
-
-## Connect with Me
+## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/jordan-leis/)
-📧 Email: jordan.jay.leis@gmail.com
+- 📧 jordan.jay.leis@gmail.com
