@@ -67,7 +67,7 @@
       <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png alt="icon" width="55" height="55" />
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" alt="icon" width="55" height="55" />
       <br>LLMs
     </td>
     <td align="center" width="90">
