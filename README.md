@@ -132,7 +132,6 @@
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jordan-Leis&theme=radical">
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jordan-Leis&theme=radical">
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Jordan-Leis&show_icons=true&theme=radical&count_private=true" />
-<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Jordan-Leis&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
 </div>
 
