@@ -67,7 +67,7 @@
       <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/openai-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="icon" width="55" height="55" />
       <br>LLMs
     </td>
     <td align="center" width="90">
@@ -129,8 +129,8 @@
 
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jordan-Leis&theme=radical">
 <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jordan-Leis&theme=radical">
-<img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordan-Leis&hide=HTML,css&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="top langs" /> 
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jordan-Leis&theme=radical">
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jordan-Leis&theme=radical">
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Jordan-Leis&show_icons=true&theme=radical&count_private=true" />
 <img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jordan-Leis&theme=radical" />
 
