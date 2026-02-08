@@ -67,7 +67,7 @@
       <br>TensorFlow
     </td>
     <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="icon" width="55" height="55" />
+      <img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png alt="icon" width="55" height="55" />
       <br>LLMs
     </td>
     <td align="center" width="90">
@@ -132,7 +132,7 @@
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jordan-Leis&theme=radical">
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jordan-Leis&theme=radical">
 <img height="166em" src="https://github-readme-stats.vercel.app/api?username=Jordan-Leis&show_icons=true&theme=radical&count_private=true" />
-<img height="166em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jordan-Leis&theme=radical" />
+<img height="166em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Jordan-Leis&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 
 </div>
 
