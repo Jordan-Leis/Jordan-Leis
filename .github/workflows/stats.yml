@@ -1,0 +1,42 @@
+name: Refresh profile stats
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test collector
+        run: python -m unittest discover -s tests -v
+      - name: Refresh both themes
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python scripts/gen_stats.py
+      - name: Commit changed stats
+        run: |
+          git add assets/neofetch-dark.svg assets/neofetch-light.svg
+          if git diff --cached --quiet; then
+            echo "Stats unchanged; no commit needed."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Refresh GitHub profile stats'
+          git push origin HEAD:main
