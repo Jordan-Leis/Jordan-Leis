@@ -5,8 +5,6 @@
 
 ### `whoami`
 
-3B Electrical Engineering at Waterloo, I like to build.
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/neofetch-dark.svg">
   <img src="assets/neofetch-light.svg" alt="Jordan's neofetch: Waterloo Electrical Engineering, RTL on Zynq UltraScale+, public GitHub stats, and FPGA / RTL co-op search for 2027." width="860">
