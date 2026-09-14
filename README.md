@@ -5,7 +5,7 @@
 
 ### `whoami`
 
-3B Electrical Engineering at Waterloo. Research → ML → software → hardware; right now that means RTL on a Zynq UltraScale+, closing timing through architecture instead of tool flags. I build at whatever layer the problem is stuck at.
+3B Electrical Engineering at Waterloo, I like to build.
 
 ### `tree ~/work`
 
