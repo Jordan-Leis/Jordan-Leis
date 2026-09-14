@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="400" viewBox="0 0 860 400" role="img" aria-labelledby="title desc" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace">
 <title id="title">Jordan&#x27;s GitHub neofetch</title>
-<desc id="desc">University of Waterloo · Electrical Engineering, 3B. 34 owned public non-fork repositories, 5 stars, 5 followers. 181 unique authored non-merge commits in public owned repositories and discovered collaborations, default branches only. 3433348 lines added, 3176150 deleted. FPGA / RTL co-op, 2027. Asia Jan–Apr 2027 · Cansbridge Fellowship.</desc>
+<desc id="desc">University of Waterloo · Electrical Engineering, 3B. 34 owned public non-fork repositories, 5 stars, 5 followers. 184 unique authored non-merge commits in public owned repositories and discovered collaborations, default branches only. 3433349 lines added, 3176176 deleted. FPGA / RTL co-op, 2027. Asia Jan–Apr 2027 · Cansbridge Fellowship.</desc>
 <rect x="0.5" y="0.5" width="859" height="399" rx="10" fill="#0d1117" stroke="#30363d"/>
 <text x="28" y="32" fill="#e6edf3" font-size="15" font-weight="600" textLength="135.00" lengthAdjust="spacing" xml:space="preserve" >jordan@waterloo</text>
 <text x="163" y="32" fill="#8b949e" font-size="15" font-weight="400" textLength="558.00" lengthAdjust="spacing" xml:space="preserve" > ─────────────────────────────────────────────────────────────</text>
@@ -26,10 +26,10 @@
 <text x="370" y="201" fill="#e6edf3" font-size="15" font-weight="400" textLength="342.00" lengthAdjust="spacing" xml:space="preserve" >34   Stars ..... 5   Followers ..... 5</text>
 <text x="28" y="224" fill="#e0a45e" font-size="15" font-weight="400" textLength="63.00" lengthAdjust="spacing" xml:space="preserve" >Commits</text>
 <text x="91" y="224" fill="#8b949e" font-size="15" font-weight="400" textLength="594.00" lengthAdjust="spacing" xml:space="preserve" > ................................................................ </text>
-<text x="685" y="224" fill="#e6edf3" font-size="15" font-weight="400" textLength="27.00" lengthAdjust="spacing" xml:space="preserve" >181</text>
+<text x="685" y="224" fill="#e6edf3" font-size="15" font-weight="400" textLength="27.00" lengthAdjust="spacing" xml:space="preserve" >184</text>
 <text x="28" y="247" fill="#e0a45e" font-size="15" font-weight="400" textLength="117.00" lengthAdjust="spacing" xml:space="preserve" >Lines changed</text>
 <text x="145" y="247" fill="#8b949e" font-size="15" font-weight="400" textLength="351.00" lengthAdjust="spacing" xml:space="preserve" > ..................................... </text>
-<text x="496" y="247" fill="#e6edf3" font-size="15" font-weight="400" textLength="216.00" lengthAdjust="spacing" xml:space="preserve" >3,433,348++  3,176,150--</text>
+<text x="496" y="247" fill="#e6edf3" font-size="15" font-weight="400" textLength="216.00" lengthAdjust="spacing" xml:space="preserve" >3,433,349++  3,176,176--</text>
 <text x="28" y="270" fill="#e0a45e" font-size="15" font-weight="400" textLength="81.00" lengthAdjust="spacing" xml:space="preserve" >Languages</text>
 <text x="109" y="270" fill="#8b949e" font-size="15" font-weight="400" textLength="270.00" lengthAdjust="spacing" xml:space="preserve" > ............................ </text>
 <text x="379" y="270" fill="#e6edf3" font-size="15" font-weight="400" textLength="333.00" lengthAdjust="spacing" xml:space="preserve" >Python · HTML · TypeScript · Assembly</text>
